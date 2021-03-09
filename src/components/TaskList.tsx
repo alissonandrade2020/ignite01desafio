@@ -49,7 +49,7 @@ export function TaskList() {
   return (
     <section className="task-list container">
       <header>
-        <h2>Minhas tasks - Alisson Andrade</h2>
+        <h2>Listagem - Alisson Andrade</h2>
 
         <div className="input-group">
           <input 
